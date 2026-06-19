@@ -1,4 +1,5 @@
-#**Action-Conditioned V-JEPA 2 World Model in PyTorch**
+# Action-Conditioned V-JEPA 2 World Model in PyTorch
+
 A self-supervised learning repository focused on Joint-Embedding Predictive Architectures for predictive dynamics and planning. Moving away from traditional generative models that waste immense computational bandwidth decoding raw, high-dimensional pixels, this architecture implements an Action-Conditioned Latent World Model engineered for self-supervised temporal representation learning.
 
 Core Paradigm Shift
